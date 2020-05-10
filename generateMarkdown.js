@@ -67,7 +67,7 @@ ${data.description}
 
 ![GitHub followers](https://img.shields.io/github/followers/${data.username}?label=Follow&style=social);
 }
-`;
+`
 }
 
 module.exports = generateMarkdown 
