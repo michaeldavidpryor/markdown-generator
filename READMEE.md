@@ -1,6 +1,6 @@
 
 
-# d
+# README Generator
 
 ----
 
@@ -17,42 +17,48 @@
 ----
 
 ## Description
-d
+
+Its fun
 
 ----
 
 ## Installation
   
-  d
+  init()
 
 ----
 
 ## Features
-  d
+
+  Creates a nice looking README
 
 ----
 
 ## Tests
-  d
+
+  none
 
 ----
 
 ## Contributing
-  d 
+
+  forkkkkkk 
 
 ----
 
 ## Support
+
 [![Avatar](https://avatars.githubusercontent.com/michaeldavidpryor?s=200)](http://github.com/michaeldavidpryor) 
 
 <br>
 
-<a href = "mailto:d?subject = Feedback&body = Message">Send Feedback</a>
+<a href = "mailto:mdpcaps@gmail.com?subject = Feedback&body = Message">Send Feedback</a>
 
 ----
 ## License
-![License](http://img.shields.io/:michaeldavidpryor/:d)
 
+![GitHub](http://img.shields.io/github/license/michaeldavidpryor/markdown-generator) 
 ----
 ## Badges
+
 ![GitHub followers](https://img.shields.io/github/followers/michaeldavidpryor?label=Follow&style=social);

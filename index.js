@@ -64,7 +64,7 @@ function promptUser() {
       type: "input",
       message: "What are some ways to contribute to your project?",
       name: "contributing"
-    },
+    }
 
   ]);
 };

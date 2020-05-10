@@ -55,18 +55,16 @@ ${data.description}
 
 <br>
 
-<a href = "mailto:${data.email}?subject = Feedback&body = Message">Send Feedback</a>
+<a href = "mailto:${data.email}?subject = Feedback&body = Message" target="_blank">Send Feedback</a>
 
 ----
 ## License
 
-![License](http://img.shields.io/:${data.username}/:${data.repo})
-
+![GitHub](http://img.shields.io/github/license/${data.username}/${data.repo}) 
 ----
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/${data.username}?label=Follow&style=social);
-}
+![GitHub followers](https://img.shields.io/github/followers/${data.username}?label=Follow&style=social)
 `
 }
 
