@@ -46,7 +46,7 @@ An easy to use and effective README or Markdown generator with prompts from comm
 
 ## Support
 
-<a href = "mailto:${data.email}?subject = Feedback&body = Message" target="_blank">Send Feedback</a>
+<a href = "mailto:mdpcaps@gmail.com?subject = Feedback&body = Message" target="_blank">Send Feedback</a>
 
 ----
 
